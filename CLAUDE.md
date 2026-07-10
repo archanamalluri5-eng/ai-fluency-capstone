@@ -25,3 +25,5 @@ AI Fluency Capstone Project
 ## Goal
 
 Use AI responsibly to build high-quality frontend applications while continuously learning.
+
+Always review AI-generated code before using it.
